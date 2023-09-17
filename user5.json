@@ -1,0 +1,15 @@
+{
+    "name": "Rodrigues Alves",
+    "account": {
+        "number": "1902-1906",
+        "agency": "0055",
+        "balance": 0,
+        "limit": 500
+    },
+    "card": {
+        "number": "**** **** **** 1902",
+        "limit": 1000
+    },
+    "features": [],
+    "news": []
+}

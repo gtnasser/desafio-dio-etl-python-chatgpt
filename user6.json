@@ -1,0 +1,15 @@
+{
+    "name": "Floriano Peixoto",
+    "account": {
+        "number": "1891-1894",
+        "agency": "0055",
+        "balance": 0,
+        "limit": 500
+    },
+    "card": {
+        "number": "**** **** **** 1891",
+        "limit": 1000
+    },
+    "features": [],
+    "news": []
+}

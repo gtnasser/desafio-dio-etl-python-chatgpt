@@ -1,0 +1,15 @@
+{
+    "name": "Campos Salles",
+    "account": {
+        "number": "1898-1902",
+        "agency": "0055",
+        "balance": 0,
+        "limit": 500
+    },
+    "card": {
+        "number": "**** **** **** 1898",
+        "limit": 1000
+    },
+    "features": [],
+    "news": []
+}

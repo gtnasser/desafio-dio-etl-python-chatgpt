@@ -1,0 +1,15 @@
+{
+    "name": "Prudente de Morais",
+    "account": {
+        "number": "1894-1898",
+        "agency": "0055",
+        "balance": 0,
+        "limit": 500
+    },
+    "card": {
+        "number": "**** **** **** 1894",
+        "limit": 1000
+    },
+    "features": [],
+    "news": []
+}
