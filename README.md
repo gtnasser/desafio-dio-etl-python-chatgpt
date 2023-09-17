@@ -157,7 +157,7 @@ Vamos usar como base o código disponibilizado na [documentação de uso](https:
 import openai
 
 # chave API Key
-openai.api_key = "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"
+openai.api_key = "COPIE-SUA_CHAVE-AQUI"
 
 # solicita ao Chat GPT uma recomendação de investimento
 def generate_ai_news(user):
